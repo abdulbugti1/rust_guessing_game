@@ -1,2 +1,2 @@
-# rust_guessing_game
+# Rust Guessing Game
 A small guessing game using rust
